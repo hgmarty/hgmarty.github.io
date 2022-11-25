@@ -6,7 +6,17 @@
     <description>Recent content on Temps libre</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022-Now Guillaume Marty</copyright>
-    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2022 20:45:41 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photoblog</title>
+      <link>/about/photoblog/</link>
+      <pubDate>Fri, 25 Nov 2022 20:45:41 +0700</pubDate>
+      
+      <guid>/about/photoblog/</guid>
+      <description>J&amp;rsquo;ai ouvert un petit espace où je partagerais quelques photographies.
+Par ici</description>
+    </item>
+    
     <item>
       <title>Tourte rustique</title>
       <link>/blog/0048-tourte-rustique/</link>
