@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/0013-composition/</loc>
+    <lastmod>2022-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/livre/</loc>
+    <lastmod>2022-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/photo/</loc>
+    <lastmod>2022-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/photoblog/</loc>
     <lastmod>2022-11-25T20:45:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-11-25T20:45:41+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/cuisine/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,11 +50,6 @@
   <url>
     <loc>/blog/0019-rangement-style/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/photo/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,11 +70,6 @@
   <url>
     <loc>/blog/0018-ultime-focus/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/livre/</loc>
-    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
