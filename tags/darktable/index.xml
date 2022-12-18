@@ -6,7 +6,38 @@
     <description>Recent content in darktable on Temps libre</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022-Now Guillaume Marty</copyright>
-    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/darktable/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/darktable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation de darktable</title>
+      <link>/blog/0023-install-darktable/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0023-install-darktable/</guid>
+      <description>Pourquoi compiler darktable ? j&amp;rsquo;y trouve deux raisons actuellement. La première est d&amp;rsquo;avoir la version stable le plus rapidement dès la sortie. En effet, packager dépend encore du temps disponible de chaque contributeur sur les différentes distributions. La compilation permet de ne dépendre que de soi-même. La deuxième est de pouvoir tester la version en développement.
+Pour la version en développement, il est toujours possible de passer par un dépôt tiers.</description>
+    </item>
+    
+    <item>
+      <title>Styles sous darktable</title>
+      <link>/blog/0022-styles/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0022-styles/</guid>
+      <description>Bonjour,
+un petit post pour vous présenter mes ressources, ce sont des styles pour darktable que j&amp;rsquo;utilise plus ou moins régulièrement.
+Ils sont disponibles sur mon github.
+Bonne recherche</description>
+    </item>
+    
+    <item>
+      <title>Accélérer l&#39;affichage des miniatures</title>
+      <link>/blog/0021-miniature/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0021-miniature/</guid>
+      <description>A chaque visualisation, une miniature est affichée. Celle-ci provient de l&amp;rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors darktable développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&amp;rsquo;a pas été fait avant. C&amp;rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.</description>
+    </item>
+    
     <item>
       <title>Mettre de l&#39;ordre dans les styles</title>
       <link>/blog/0019-rangement-style/</link>

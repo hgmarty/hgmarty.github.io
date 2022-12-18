@@ -8,6 +8,94 @@
     <copyright>&amp;copy; 2022-Now Guillaume Marty</copyright>
     <lastBuildDate>Sun, 02 Jul 2017 08:14:51 +0700</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Installation de darktable</title>
+      <link>/blog/0023-install-darktable/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0023-install-darktable/</guid>
+      <description>Pourquoi compiler darktable ? j&amp;rsquo;y trouve deux raisons actuellement. La première est d&amp;rsquo;avoir la version stable le plus rapidement dès la sortie. En effet, packager dépend encore du temps disponible de chaque contributeur sur les différentes distributions. La compilation permet de ne dépendre que de soi-même. La deuxième est de pouvoir tester la version en développement.
+Pour la version en développement, il est toujours possible de passer par un dépôt tiers.</description>
+    </item>
+    
+    <item>
+      <title>52 défis créatifs pour un photographe de Anne-Laure Jacquart</title>
+      <link>/blog/0012-52-defis/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0012-52-defis/</guid>
+      <description>Bonjour,
+aujourd&amp;rsquo;hui, on reprend la série des livres avec un nouveau livre d&amp;rsquo;Anne-Laure jacquart pour changer, dans l&amp;rsquo;ensemble je les aime bien. Est-ce que mon avis va changer pour celui-ci ?
+1 défi par semaine, ce livre va durer pendant une année. Plus sérieusement, chaque semaine fera donc l&amp;rsquo;object d&amp;rsquo;un défi ayant pour sujet :
+ cadrage, composition angle de vue, orientation lumineuse, rendu d&amp;rsquo;image flou, netteté, instant décisif regard, expression, créativité  Pour ma part, je l&amp;rsquo;utilise quand je suis en manque d&amp;rsquo;inspiration.</description>
+    </item>
+    
+    <item>
+      <title>Pates italiennes</title>
+      <link>/blog/0050-pates-italiennes/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0050-pates-italiennes/</guid>
+      <description>J&amp;rsquo;avais prise celle-ci sur un bouquin de cuisine en Italie à Florence, en espérant qu&amp;rsquo;elle soit la bonne. En tout cas, je les adore.
+1 personne, 180 minutes
+   Ingrédients Déroulé     1 oeuf    100 g de farine ou semoule possibilité de panacher   Mixer, réserver au frais pendant 2 heures    Façonner les pates     </description>
+    </item>
+    
+    <item>
+      <title>Styles sous darktable</title>
+      <link>/blog/0022-styles/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0022-styles/</guid>
+      <description>Bonjour,
+un petit post pour vous présenter mes ressources, ce sont des styles pour darktable que j&amp;rsquo;utilise plus ou moins régulièrement.
+Ils sont disponibles sur mon github.
+Bonne recherche</description>
+    </item>
+    
+    <item>
+      <title>Accélérer l&#39;affichage des miniatures</title>
+      <link>/blog/0021-miniature/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0021-miniature/</guid>
+      <description>A chaque visualisation, une miniature est affichée. Celle-ci provient de l&amp;rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors darktable développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&amp;rsquo;a pas été fait avant. C&amp;rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.</description>
+    </item>
+    
+    <item>
+      <title>Chaîne youtube : Nicolas Doretti</title>
+      <link>/blog/0020-yt-ndoretti/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0020-yt-ndoretti/</guid>
+      <description>Salut,
+la plupart du temps, on trouve sur youtube et consorts des vidéos servant à perdre du temps. Concernant la photographie, il y a peu de chaînes qui sont novatrices. La plupart reprennent des concepts qui ont déjà été expliqués dans d&amp;rsquo;autres antérieures.
+Aussi, je vais vous partager mes trouvailles. Et oui, c&amp;rsquo;est très personnel. Certaines concepts ont déjà été repris avant mais le ton ou la contenu me plaisent.</description>
+    </item>
+    
+    <item>
+      <title>Spaetzle</title>
+      <link>/blog/0049-spaetzle/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0049-spaetzle/</guid>
+      <description>Je ne sais pas si cette recette est la traditionnelle mais elle est pas si mal que cela :
+4 personnes, 30 minutes
+   Ingrédients Déroulé     5 oeufs    250 mL d&amp;rsquo;eau battre les oeufs et l&amp;rsquo;eau   500 g de farine ajouter   Cuire dans l&amp;rsquo;eau bouillante en les jetant dans l&amp;rsquo;eau (couteau ou appareil)    Les mettre dans l&amp;rsquo;eau froide quand ils remontent    Congeler ou faire revenir dans une poêle avec un peu de matière grasse     </description>
+    </item>
+    
+    <item>
+      <title>Les secrets du style en photographie de Denis Dubesset</title>
+      <link>/blog/0017-secrets-style/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0017-secrets-style/</guid>
+      <description>Bonjour, et oui encore un livre, ma curiosité est assez grande.
+Les secrets du style en photographie. C&amp;rsquo;est un sujet vaste et assez énigmatique, en tout cas pour moi, ce livre de, à nouveau, Denis Dubesset est bien écrit. Il propose un plan de lecture qui fait cheminer et réfléchir le lecteur pour qu&amp;rsquo;il trouve son style.
+J&amp;rsquo;avoue que je m&amp;rsquo;y plonge souvent pour comprendre ces concepts.
+Je le conseille à condition de n&amp;rsquo;être pas un complet débutant.</description>
+    </item>
+    
+    <item>
       <title>Les secrets du cadrage photo de Denis Dubesset</title>
       <link>/blog/0013-composition/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
