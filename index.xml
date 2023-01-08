@@ -6,7 +6,92 @@
     <description>Recent content on Temps libre</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022-Now Guillaume Marty</copyright>
-    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filmique : technique ou créatif</title>
+      <link>/blog/0027-filmique/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0027-filmique/</guid>
+      <description>Bonjour,
+aujourd&amp;rsquo;hui, je vais vous parler de ce module décrié mais tellement puissant. Filmique rvb est utilisé pour faire rentrer la plage dynamique de l&amp;rsquo;appareil photo dans la plage dynamique de l&amp;rsquo;écran. A ce titre, il réduit donc les zones surtout celle aux extrémités de la plage dynamique, donc proche du noir et du blanc. On le voit très bien en mettant le graphique d&amp;rsquo;Ansel Adams.
+Ce réglage se fait en configurant notamment l&amp;rsquo;exposition relative du blanc et du noir en faisant coïncider ceux-ci avec le blanc du contour.</description>
+    </item>
+    
+    <item>
+      <title>Citations de photographe pour photographe</title>
+      <link>/blog/0026-citations1/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0026-citations1/</guid>
+      <description>Bonjour,
+aujourd&amp;rsquo;hui un nouveau concept de billet : je vais partir de citations de photographes pour illustrer quelques propos.
+La photo n&amp;rsquo;est que de la chance Effectivement, on peut penser que son cliché n&amp;rsquo;est que de la chance. Bien évidemment, on ne va pas s&amp;rsquo;arrêter ici. Comme le dit Brassaï : &amp;ldquo;La chance est toujours là, nous l&amp;rsquo;utilisons tous. La différence entre un bon ou un mauvais photographe est que le mauvais la rencontre une fois sur cent et le bon à chaque instant&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Ansel Photos</title>
+      <link>/blog/0068-ansel/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0068-ansel/</guid>
+      <description>Ansel ? Ansel est un fork de darktable. Dans le libre, quand il existe des divergences, un fork se crée. C&amp;rsquo;est ce qui s&amp;rsquo;est passé dans darktable.
+Pourquoi Ansel ? J&amp;rsquo;ai choisi de continuer le développement sous Ansel et ce pour plusieurs raisons mais interconnectées :
+ darktable évolue trop vite avec une version tous les 6 mois. Je n&amp;rsquo;ai plus le temps de suivre et de reconfigurer les choses trop rapidement.</description>
+    </item>
+    
+    <item>
+      <title>Blanquette à la volaille ou au veau</title>
+      <link>/blog/0052-blanquette-volaille/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0052-blanquette-volaille/</guid>
+      <description>Une petite recette traditionnelle :
+4 personnes, 180 minutes
+   Ingrédients Déroulé     800 g de poulet faire revenir la viande   1 cs de farine faire dorer la farine avec la viande   2 oignons ajouter les   3 tomates ajouter les en quartiers    Laisser cuire 90 min pour le veau et 50 min pour la volaille    2 jaunes d&amp;rsquo;oeufs    500mL de bouillon de volaille    125g de crème mélanger ces 3 ingrédients   Verser le mélange pour cuire un peu avec la viande    Servir avec du riz ou des pommes de terre     </description>
+    </item>
+    
+    <item>
+      <title>Impression instax</title>
+      <link>/blog/0067-impression-instax/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0067-impression-instax/</guid>
+      <description>Les formats instax offrent quelque chose de vintage, une sorte de madeleine. Cependant, si on joue au jeu bénéfices/coûts, on s&amp;rsquo;aperçoit très vite que ce n&amp;rsquo;est pas assez équilibré. J&amp;rsquo;ai donc préféré ne pas me lancer dans cette aventure et garder les sous pour une autre chose.
+Toutefois, ce côté vintage est tout de même très attirant. Je travaille à une solution qui fera le travail. En avant première, voici une manière un peu plus artisanal.</description>
+    </item>
+    
+    <item>
+      <title>Carottes, curry et pates</title>
+      <link>/blog/0051-carottes-curry/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0051-carottes-curry/</guid>
+      <description>Un mélange agréable pour finir une journée :
+4 personnes, 45 minutes
+   Ingrédients Déroulé     500g de carottes les rissoler dans une poele   300g de pates les cuire   200 mL de crème mélanger le tout avec du curry    </description>
+    </item>
+    
+    <item>
+      <title>darktable et théorie</title>
+      <link>/work/dt-theorie/</link>
+      <pubDate>Sun, 25 Dec 2022 03:47:35 +0700</pubDate>
+      
+      <guid>/work/dt-theorie/</guid>
+      <description>Cet article introduit darktable et revient sur les principes théoriques des différents modules relatifs à la scène.
+Pour débuter facilement avec darktable Au début, en découvrant darktable, il semble difficile de s&amp;rsquo;y retrouver. Il existe effectivement pas moins de 75 modules sur ce logiciel. Et finalement, on se dit qu&amp;rsquo;on n&amp;rsquo;y arrivera jamais au bout. Mais il n&amp;rsquo;y a pas besoin de tous les connaître. Il est seulement nécessaire d&amp;rsquo;en utiliser certains.</description>
+    </item>
+    
+    <item>
+      <title>Contraste local et netteté</title>
+      <link>/blog/0024-contraste/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0024-contraste/</guid>
+      <description>Aujourd&amp;rsquo;hui, je voulais reprendre ces notions théoriques. Comme je n&amp;rsquo;ai aucune prétention de ce côté, je vais vous laisser avec cette vidéo d&amp;rsquo;Aurélien Pierre qui explique très bien la différence :
+  La netteté ne peut être modifiée par darktable. Celle-ci se précise dès la prise de vue et dépend beaucoup de la qualité de l&amp;rsquo;objectif, il est souvent parlé de piqué. Il est à noter un module en développement : module de déconvolution, qui permettra d&amp;rsquo;augmenter la netteté.</description>
+    </item>
+    
     <item>
       <title>Installation de darktable</title>
       <link>/blog/0023-install-darktable/</link>
@@ -58,7 +143,7 @@ Bonne recherche</description>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/0021-miniature/</guid>
-      <description>A chaque visualisation, une miniature est affichée. Celle-ci provient de l&amp;rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors darktable développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&amp;rsquo;a pas été fait avant. C&amp;rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.</description>
+      <description>A chaque visualisation, une miniature est affichée. Celle-ci provient de l&amp;rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors ansel développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&amp;rsquo;a pas été fait avant. C&amp;rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.</description>
     </item>
     
     <item>

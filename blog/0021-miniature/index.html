@@ -6,7 +6,7 @@
 		<meta name="generator" content="Hugo 0.80.0" />
 		<title>Accélérer l&#39;affichage des miniatures - Temps libre</title>
 
-		<meta name="description" content="A chaque visualisation, une miniature est affichée. Celle-ci provient de l&rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors darktable développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&rsquo;a pas été fait avant. C&rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.">
+		<meta name="description" content="A chaque visualisation, une miniature est affichée. Celle-ci provient de l&rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors ansel développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&rsquo;a pas été fait avant. C&rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.">
 
 
 		
@@ -52,32 +52,37 @@
 		<span class="no-print">
 			-
 				
-				<a href="/tags/darktable">darktable</a>
+				<a href="/tags/ansel">ansel</a>
 				<span>
 	</h5>
 	
 </hgroup>
 <hr class="sep" />
 </header>
-	<p>A chaque visualisation, une miniature est affichée. Celle-ci provient de l&rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors darktable développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&rsquo;a pas été fait avant. C&rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures. Cela permet donc d&rsquo;avoir un cache et d&rsquo;avoir une meilleure réactivité de darktable.</p>
+	<p>A chaque visualisation, une  miniature est affichée. Celle-ci provient
+de l&rsquo;image raw développée par  le boitier. Cependant, celle-ci ne sera
+pas comme souhaité et ne sera  pas identique au développement que fera
+le logiciel. Ou alors ansel développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&rsquo;a pas été fait avant. C&rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures. Cela permet donc d&rsquo;avoir un cache et d&rsquo;avoir une meilleure réactivité d&rsquo;ansel.</p>
 <p>Il faut aussi noter que ce stockage prendra d&rsquo;autant plus de place que la base de données des images est grande.</p>
-<p>La première itération prendra du temps mais les suivantes seront assez rapides. Il ne faut pas oublier que le choix doit être fait entre le lancement de la commande ou l&rsquo;utilisation de darktable. Ce choix sera fait par la machine qui lancera l&rsquo;une si l&rsquo;autre n&rsquo;est pas lancée. Deux solutions pour lancer cette commande existent :</p>
+<p>La première itération prendra du temps mais les suivantes seront assez
+rapides. Il ne faut  pas oublier que le choix doit  être fait entre le
+lancement de la commande ou l&rsquo;utilisation d&rsquo;ansel. Ce choix sera fait par la machine qui lancera l&rsquo;une si l&rsquo;autre n&rsquo;est pas lancée. Deux solutions pour lancer cette commande existent :</p>
 <ul>
 <li>soit à la main</li>
 <li>soit par crontab</li>
 </ul>
 <h2 id="la-commande">La commande</h2>
 <p>Il s&rsquo;agit de :
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">darktable-generate-cache</code></pre></div></p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ansel-generate-cache</code></pre></div></p>
 <p>Le paramètre à connaître est <em>-m 0-8</em>. Il s&rsquo;agit des niveaux de résolution des miniatures. Par défaut, celui-ci sera à 2. Dans ce cas, la commande va générer les miniatures du niveau 0 à 2.  0 est le paramètre pour donner une résolution moindre et 8 la plus forte résolution.</p>
-<p>Si les fichiers de configuration sont dans un dossier autre que <em>~/.config/darktable/</em>, il faudra spécifier le chemin comme dans le lanceur de l&rsquo;application avec :
+<p>Si les fichiers de configuration sont dans un dossier autre que <em>~/.config/ansel/</em>, il faudra spécifier le chemin comme dans le lanceur de l&rsquo;application avec :
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">--core --configdir /chemin/</code></pre></div></p>
 <p>Voir l&rsquo;exemple en dessous.</p>
 <h2 id="ma-pratique">Ma pratique</h2>
 <p>J&rsquo;utilise pour ma part la commande
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">darktable-generate-cache -m <span class="m">8</span> --core --configdir /home/guillaume/.config/darktable_master</code></pre></div></p>
-<p>Cela permet de différencier les bases de données lorsque plusieurs versions ou types de darktable sont présents sur l&rsquo;ordinateur.</p>
-<p>La commande est placée aussi dans le crontab pour qu&rsquo;elle se lance toutes les heures. Si darktable est déjà lancé, celle-ci ne pourra être exécutée, ce qui est parfait.</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ansel-generate-cache -m <span class="m">8</span> --core --configdir /home/guillaume/.config/ansel</code></pre></div></p>
+<p>Cela permet de différencier les bases de données lorsque plusieurs versions ou types d&rsquo;ansel sont présents sur l&rsquo;ordinateur.</p>
+<p>La commande est placée aussi dans le crontab pour qu&rsquo;elle se lance toutes les heures. Si ansel est déjà lancé, celle-ci ne pourra être exécutée, ce qui est parfait.</p>
 
 </article>
 <nav class="no-print post-nav">

@@ -6,7 +6,17 @@
     <description>Recent content in darktable on Temps libre</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022-Now Guillaume Marty</copyright>
-    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/darktable/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Dec 2022 03:47:35 +0700</lastBuildDate><atom:link href="/tags/darktable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>darktable et théorie</title>
+      <link>/work/dt-theorie/</link>
+      <pubDate>Sun, 25 Dec 2022 03:47:35 +0700</pubDate>
+      
+      <guid>/work/dt-theorie/</guid>
+      <description>Cet article introduit darktable et revient sur les principes théoriques des différents modules relatifs à la scène.
+Pour débuter facilement avec darktable Au début, en découvrant darktable, il semble difficile de s&amp;rsquo;y retrouver. Il existe effectivement pas moins de 75 modules sur ce logiciel. Et finalement, on se dit qu&amp;rsquo;on n&amp;rsquo;y arrivera jamais au bout. Mais il n&amp;rsquo;y a pas besoin de tous les connaître. Il est seulement nécessaire d&amp;rsquo;en utiliser certains.</description>
+    </item>
+    
     <item>
       <title>Installation de darktable</title>
       <link>/blog/0023-install-darktable/</link>
@@ -15,38 +25,6 @@
       <guid>/blog/0023-install-darktable/</guid>
       <description>Pourquoi compiler darktable ? j&amp;rsquo;y trouve deux raisons actuellement. La première est d&amp;rsquo;avoir la version stable le plus rapidement dès la sortie. En effet, packager dépend encore du temps disponible de chaque contributeur sur les différentes distributions. La compilation permet de ne dépendre que de soi-même. La deuxième est de pouvoir tester la version en développement.
 Pour la version en développement, il est toujours possible de passer par un dépôt tiers.</description>
-    </item>
-    
-    <item>
-      <title>Styles sous darktable</title>
-      <link>/blog/0022-styles/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/0022-styles/</guid>
-      <description>Bonjour,
-un petit post pour vous présenter mes ressources, ce sont des styles pour darktable que j&amp;rsquo;utilise plus ou moins régulièrement.
-Ils sont disponibles sur mon github.
-Bonne recherche</description>
-    </item>
-    
-    <item>
-      <title>Accélérer l&#39;affichage des miniatures</title>
-      <link>/blog/0021-miniature/</link>
-      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/0021-miniature/</guid>
-      <description>A chaque visualisation, une miniature est affichée. Celle-ci provient de l&amp;rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors darktable développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&amp;rsquo;a pas été fait avant. C&amp;rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.</description>
-    </item>
-    
-    <item>
-      <title>Mettre de l&#39;ordre dans les styles</title>
-      <link>/blog/0019-rangement-style/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/0019-rangement-style/</guid>
-      <description>Bonjour
-je suis en train de finir les vidéos de Boris Hajdukovic pour m&amp;rsquo;inspirer de son travail. Il en ressort pas mal de styles et si l&amp;rsquo;on ajoute les miens, cela fait une belle liste. Malgré tout le soin que l&amp;rsquo;on pourrait apporter aux noms des styles, une longue liste peut être vite déstabilisante.
-Tout comme les mots clés parents et enfants, il est possible de ranger les styles dans des catégories avec les pipes qui se font avec ALT Gr + 6.</description>
     </item>
     
   </channel>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ansel on Temps libre</title>
+    <link>/tags/ansel/</link>
+    <description>Recent content in ansel on Temps libre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2022-Now Guillaume Marty</copyright>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ansel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filmique : technique ou créatif</title>
+      <link>/blog/0027-filmique/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0027-filmique/</guid>
+      <description>Bonjour,
+aujourd&amp;rsquo;hui, je vais vous parler de ce module décrié mais tellement puissant. Filmique rvb est utilisé pour faire rentrer la plage dynamique de l&amp;rsquo;appareil photo dans la plage dynamique de l&amp;rsquo;écran. A ce titre, il réduit donc les zones surtout celle aux extrémités de la plage dynamique, donc proche du noir et du blanc. On le voit très bien en mettant le graphique d&amp;rsquo;Ansel Adams.
+Ce réglage se fait en configurant notamment l&amp;rsquo;exposition relative du blanc et du noir en faisant coïncider ceux-ci avec le blanc du contour.</description>
+    </item>
+    
+    <item>
+      <title>Ansel Photos</title>
+      <link>/blog/0068-ansel/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0068-ansel/</guid>
+      <description>Ansel ? Ansel est un fork de darktable. Dans le libre, quand il existe des divergences, un fork se crée. C&amp;rsquo;est ce qui s&amp;rsquo;est passé dans darktable.
+Pourquoi Ansel ? J&amp;rsquo;ai choisi de continuer le développement sous Ansel et ce pour plusieurs raisons mais interconnectées :
+ darktable évolue trop vite avec une version tous les 6 mois. Je n&amp;rsquo;ai plus le temps de suivre et de reconfigurer les choses trop rapidement.</description>
+    </item>
+    
+    <item>
+      <title>Impression instax</title>
+      <link>/blog/0067-impression-instax/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0067-impression-instax/</guid>
+      <description>Les formats instax offrent quelque chose de vintage, une sorte de madeleine. Cependant, si on joue au jeu bénéfices/coûts, on s&amp;rsquo;aperçoit très vite que ce n&amp;rsquo;est pas assez équilibré. J&amp;rsquo;ai donc préféré ne pas me lancer dans cette aventure et garder les sous pour une autre chose.
+Toutefois, ce côté vintage est tout de même très attirant. Je travaille à une solution qui fera le travail. En avant première, voici une manière un peu plus artisanal.</description>
+    </item>
+    
+    <item>
+      <title>Contraste local et netteté</title>
+      <link>/blog/0024-contraste/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0024-contraste/</guid>
+      <description>Aujourd&amp;rsquo;hui, je voulais reprendre ces notions théoriques. Comme je n&amp;rsquo;ai aucune prétention de ce côté, je vais vous laisser avec cette vidéo d&amp;rsquo;Aurélien Pierre qui explique très bien la différence :
+  La netteté ne peut être modifiée par darktable. Celle-ci se précise dès la prise de vue et dépend beaucoup de la qualité de l&amp;rsquo;objectif, il est souvent parlé de piqué. Il est à noter un module en développement : module de déconvolution, qui permettra d&amp;rsquo;augmenter la netteté.</description>
+    </item>
+    
+    <item>
+      <title>Installation de darktable</title>
+      <link>/blog/0023-install-darktable/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0023-install-darktable/</guid>
+      <description>Pourquoi compiler darktable ? j&amp;rsquo;y trouve deux raisons actuellement. La première est d&amp;rsquo;avoir la version stable le plus rapidement dès la sortie. En effet, packager dépend encore du temps disponible de chaque contributeur sur les différentes distributions. La compilation permet de ne dépendre que de soi-même. La deuxième est de pouvoir tester la version en développement.
+Pour la version en développement, il est toujours possible de passer par un dépôt tiers.</description>
+    </item>
+    
+    <item>
+      <title>Styles sous darktable</title>
+      <link>/blog/0022-styles/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0022-styles/</guid>
+      <description>Bonjour,
+un petit post pour vous présenter mes ressources, ce sont des styles pour darktable que j&amp;rsquo;utilise plus ou moins régulièrement.
+Ils sont disponibles sur mon github.
+Bonne recherche</description>
+    </item>
+    
+    <item>
+      <title>Accélérer l&#39;affichage des miniatures</title>
+      <link>/blog/0021-miniature/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0021-miniature/</guid>
+      <description>A chaque visualisation, une miniature est affichée. Celle-ci provient de l&amp;rsquo;image raw développée par le boitier. Cependant, celle-ci ne sera pas comme souhaité et ne sera pas identique au développement que fera le logiciel. Ou alors ansel développe à la volée le raw pour afficher une miniature. Mais cela prend du temps entre chaque image, si bien sûr, cela n&amp;rsquo;a pas été fait avant. C&amp;rsquo;est pourquoi il existe une commande pour mettre en cache les miniatures.</description>
+    </item>
+    
+    <item>
+      <title>Mettre de l&#39;ordre dans les styles</title>
+      <link>/blog/0019-rangement-style/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/0019-rangement-style/</guid>
+      <description>Bonjour
+je suis en train de finir les vidéos de Boris Hajdukovic pour m&amp;rsquo;inspirer de son travail. Il en ressort pas mal de styles et si l&amp;rsquo;on ajoute les miens, cela fait une belle liste. Malgré tout le soin que l&amp;rsquo;on pourrait apporter aux noms des styles, une longue liste peut être vite déstabilisante.
+Tout comme les mots clés parents et enfants, il est possible de ranger les styles dans des catégories avec les pipes qui se font avec ALT Gr + 6.</description>
+    </item>
+    
+  </channel>
+</rss>

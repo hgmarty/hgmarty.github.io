@@ -7,5 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2022-Now Guillaume Marty</copyright>
     <lastBuildDate>Sun, 02 Jul 2017 08:15:25 +0700</lastBuildDate><atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>darktable et théorie</title>
+      <link>/work/dt-theorie/</link>
+      <pubDate>Sun, 25 Dec 2022 03:47:35 +0700</pubDate>
+      
+      <guid>/work/dt-theorie/</guid>
+      <description>Cet article introduit darktable et revient sur les principes théoriques des différents modules relatifs à la scène.
+Pour débuter facilement avec darktable Au début, en découvrant darktable, il semble difficile de s&amp;rsquo;y retrouver. Il existe effectivement pas moins de 75 modules sur ce logiciel. Et finalement, on se dit qu&amp;rsquo;on n&amp;rsquo;y arrivera jamais au bout. Mais il n&amp;rsquo;y a pas besoin de tous les connaître. Il est seulement nécessaire d&amp;rsquo;en utiliser certains.</description>
+    </item>
+    
   </channel>
 </rss>
