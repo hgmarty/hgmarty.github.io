@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="generator" content="Hugo 0.80.0" />
+		<title>Gérer les timelapses avec ansel - Temps libre</title>
+
+		<meta name="description" content="Un timelapse durant 15 secondes contient au minimum 360 photos. Si on définit plus que 24 images par seconde, on arrive vite à un nombre important de clichés que l&rsquo;on multiplie par le nombre de timelapses réalisés. Je trouve que ces nombreux clichés perturbent la vision de la collection globale. Et même si l&rsquo;option de grouper les images existent, je n&rsquo;y trouve pas mon compte.
+Comme expliqué dans l&rsquo;article de Nicolas Tissot sur la compilation, il est possible de travailler sur plusieurs versions de darktable et donc d&rsquo;ansel.">
+
+
+		
+	
+		
+
+
+
+
+<link rel="stylesheet" href="/css/ui.css">
+
+	
+		
+
+		<script defer src="/js/dark-mode.js"></script>
+		<link disabled id="dark-mode-theme" rel="stylesheet" href="/css/dark.css">
+		<link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono|Lato|Raleway">
+
+		
+	</head>
+
+<body>
+<header class="container no-print">
+	<div class="u-header">
+		<nav class="bar">
+	<ul><li>
+			<a href="/">
+				<img class="icon-text" src="/img/prev.svg"/>
+			</a>
+		</li><li><img class="icon-text" id="dark-mode-toggle" src="/img/moon-regular.svg" alt="Toggle Dark Mode"></a></li><li><a href="/about">About</a></li><li><a href="/blog/">Blog</a></li></ul>
+</nav>
+
+	</div>
+</header>
+<main class="container">
+
+<article>
+	<header><hgroup id="brand">
+	<h1>Gérer les timelapses avec ansel</h1>
+	<h5>
+		
+		<time datetime="2023-03-23 00:00:00 &#43;0000 UTC">Mar 23, 2023</time>
+		<span class="no-print">
+			-
+				
+				<a href="/tags/ansel">ansel</a>
+				<span>
+	</h5>
+	
+</hgroup>
+<hr class="sep" />
+</header>
+	<p>Un timelapse durant 15 secondes contient au minimum 360 photos. Si on définit plus que 24 images par seconde, on arrive vite à un nombre important de clichés que l&rsquo;on multiplie par le nombre de timelapses réalisés. Je trouve que ces nombreux clichés perturbent la vision de la collection globale. Et même si l&rsquo;option de grouper les images existent, je n&rsquo;y trouve pas mon compte.</p>
+<p>Comme   expliqué   dans   l&rsquo;article   de   Nicolas   Tissot   sur   la
+<a href="https://blog.nicolastissot.fr/travailler-sur-une-version-compilee-de-darktable/">compilation</a>,
+il est possible  de travailler sur plusieurs versions  de darktable et
+donc d&rsquo;ansel. J&rsquo;ai inversé le système en lançant à partir du même darktable plusieurs versions de ansel au niveau de la base de données. Je m&rsquo;explique :</p>
+<ul>
+<li>au niveau du disque dur, j&rsquo;ai un dossier <em>/photo</em> qui regroupe tous les clichés et les timelapses, cela ne change pas pour la facilité des sauvegardes</li>
+<li>sur une version de ansel, la collection comprend tous les clichés sauf les timelapses</li>
+<li>sur une autre version de ansel, la collection ne comprend que les timelapses</li>
+</ul>
+<p>Ainsi, j&rsquo;ai 2 bases de données de production avec :</p>
+<ul>
+<li>un ansel courant</li>
+<li>un ansel timelapse</li>
+</ul>
+<p>Au lieu de lancer ansel simplement, il faut créer un nouveau lanceur dans <em>.local/share/applications/</em> par exemple ansel.desktop avec le contenu
+suivant :</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="o">[</span> Desktop Entry <span class="o">]</span>
+<span class="nv">Type</span> <span class="o">=</span> Application
+<span class="nv">Name</span> <span class="o">=</span> ansel
+<span class="nv">GenericName</span> <span class="o">=</span> ansel
+<span class="nv">Comment</span> <span class="o">=</span> logiciel de développement de photos
+<span class="nv">Exec</span> <span class="o">=</span>/opt/ansel_master/bin/darktable -- configdir /home/guillaume/.config/ansel_master/
+<span class="nv">Icon</span> <span class="o">=</span>/opt/ansel_master/share/icons/hicolor/256x256/apps/ansel.png
+<span class="nv">Terminal</span> <span class="o">=</span> false5.5. GESTION DES COLLECTIONS ET TIMELAPSE <span class="m">71</span>
+<span class="nv">Categories</span> <span class="o">=</span>
+<span class="nv">MimeType</span> <span class="o">=</span>
+<span class="nv">Keywords</span> <span class="o">=</span>
+<span class="nv">StartupWMClass</span> <span class="o">=</span></code></pre></div>
+<p>ansel se lancera obligatoirement avec la base de données nommée après le paramètre configdir. Il suffira ensuite de créer un autre lanceur mais avec une autre base de données et un autre nom.</p>
+<p>Et cela sans toucher à la compilation ou autres subtilités.</p>
+<p>Bonne semaine</p>
+
+</article>
+<nav class="no-print post-nav">
+
+	<a class="prev-post" href="/blog/0041-distance-map/">
+		<img class="icon-text" src="/img/prev.svg"/>Distance minimale de mise au point</a>
+
+
+</nav>
+
+
+<section id="related">
+  <h4>Voir aussi</h4>
+  <ul>
+    
+  	<li><a href="/blog/0036-timelapse/">Comment faire un timelapse</a></li>
+  	
+  	<li><a href="/blog/0034-raw/">RAW</a></li>
+  	
+  	<li><a href="/blog/0033-format-image/">Format d&#39;images pour réseaux sociaux</a></li>
+  	
+  </ul>
+</section>
+
+
+
+	
+
+<script src="https://utteranc.es/client.js"
+        repo=""
+        issue-term="url"
+        label=""
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+			<hr class="sep" />
+		</main>
+		<footer class="container no-print">
+			<div class="u-footer">
+				
+<a href="mailto:hgmarty@guillaumemarty.fr"><img class="icon-social" src="/img/email.svg" alt="Email Me!"/></a>
+
+
+
+<a href="/index.xml" target="_blank"><img class="icon-social" src="/img/feed.svg" alt="Feed"></a>
+
+
+				<p>
+					
+					Thème utilisé : <a href="https://github.com/yursan9/manis-hugo-theme">Manis</a><br>
+					
+					
+					&copy; 2022-Now Guillaume Marty
+					
+					
+					| <a href="/about/license">Licence</a>
+					
+				</p>
+				
+				<a href="#brand">
+					<img class="icon-text" src="/img/toup.svg" alt="To Up"/>
+					<span>Retour vers le haut</span>
+				</a>
+				
+			</div>
+		</footer>
+		
+	</body>
+</html>
+
