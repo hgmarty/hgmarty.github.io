@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Guillaume Marty Photographie</title>
+    <link>https://hgmarty.github.io/garden_tags/linux/</link>
+    <description>Recent content in Linux on Guillaume Marty Photographie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Guillaume Marty ©</copyright>
+    <lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/garden_tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photorec</title>
+      <link>https://hgmarty.github.io/garden/001-photorec/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/garden/001-photorec/</guid>
+      <description>Un outil pour les récupérer tous</description>
+    </item>
+    
+  </channel>
+</rss>

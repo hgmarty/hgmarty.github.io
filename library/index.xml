@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliothèque photo on Guillaume Marty Photographie</title>
+    <link>https://hgmarty.github.io/library/</link>
+    <description>Recent content in Bibliothèque photo on Guillaume Marty Photographie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Guillaume Marty ©</copyright>
+    <lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les ciels couverts sont les amis des photographes</title>
+      <link>https://hgmarty.github.io/library/book2-lescielscouvertssontlesamisdesphotographes/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/library/book2-lescielscouvertssontlesamisdesphotographes/</guid>
+      <description>page 64</description>
+    </item>
+    
+    <item>
+      <title>Les secrets de la photo lifestyle</title>
+      <link>https://hgmarty.github.io/library/book1-lessecretsdelaphotolifestyle/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/library/book1-lessecretsdelaphotolifestyle/</guid>
+      <description>Entre reportage et studio</description>
+    </item>
+    
+  </channel>
+</rss>

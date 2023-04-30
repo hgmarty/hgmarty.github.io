@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillaume Marty Photographie</title>
+    <link>https://hgmarty.github.io/</link>
+    <description>Recent content on Guillaume Marty Photographie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Guillaume Marty ©</copyright>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guillaume Marty</title>
+      <link>https://hgmarty.github.io/about/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/about/</guid>
+      <description>Un appareil à la main</description>
+    </item>
+    
+    <item>
+      <title>Ouverture du site</title>
+      <link>https://hgmarty.github.io/garden/000-ouverture/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/garden/000-ouverture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photorec</title>
+      <link>https://hgmarty.github.io/garden/001-photorec/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/garden/001-photorec/</guid>
+      <description>Un outil pour les récupérer tous</description>
+    </item>
+    
+    <item>
+      <title>Instagram</title>
+      <link>https://hgmarty.github.io/projects/project1/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/projects/project1/</guid>
+      <description>&lt;p&gt;Instagram est très simple de prime abord, mais peut vite devenir compliqué : chronophage entre autre.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Les ciels couverts sont les amis des photographes</title>
+      <link>https://hgmarty.github.io/library/book2-lescielscouvertssontlesamisdesphotographes/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/library/book2-lescielscouvertssontlesamisdesphotographes/</guid>
+      <description>page 64</description>
+    </item>
+    
+    <item>
+      <title>Les secrets de la photo lifestyle</title>
+      <link>https://hgmarty.github.io/library/book1-lessecretsdelaphotolifestyle/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/library/book1-lessecretsdelaphotolifestyle/</guid>
+      <description>Entre reportage et studio</description>
+    </item>
+    
+  </channel>
+</rss>
