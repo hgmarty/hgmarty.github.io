@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Guillaume Marty ©</copyright>
-    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NoFilter</title>
+      <link>https://hgmarty.github.io/library/book3-nofilter/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/library/book3-nofilter/</guid>
+      <description>des photos sans retouche : le guide pratique</description>
+    </item>
+    
     <item>
       <title>Ansel Photos</title>
       <link>https://hgmarty.github.io/garden/002-ansel/</link>

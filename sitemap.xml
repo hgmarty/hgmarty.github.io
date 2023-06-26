@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hgmarty.github.io/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/library_tags/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/library/book3-nofilter/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/library_tags/photo/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hgmarty.github.io/garden_tags/ansel/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +21,6 @@
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hgmarty.github.io/garden_tags/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hgmarty.github.io/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hgmarty.github.io/garden_tags/photo/</loc>
@@ -45,12 +54,6 @@
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hgmarty.github.io/library/book2-lescielscouvertssontlesamisdesphotographes/</loc>
-    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hgmarty.github.io/library_tags/</loc>
-    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hgmarty.github.io/library_tags/photo/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hgmarty.github.io/library/book1-lessecretsdelaphotolifestyle/</loc>
