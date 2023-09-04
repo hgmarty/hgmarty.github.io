@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Guillaume Marty Photographie</title>
-    <link>https://hgmarty.github.io/garden/</link>
-    <description>Recent content in Articles on Guillaume Marty Photographie</description>
+    <title>Photographie on Guillaume Marty Photographie</title>
+    <link>https://hgmarty.github.io/garden_tags/photographie/</link>
+    <description>Recent content in Photographie on Guillaume Marty Photographie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Guillaume Marty ©</copyright>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/garden/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>News de rentrée</title>
-      <link>https://hgmarty.github.io/garden/007-news/</link>
-      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hgmarty.github.io/garden/007-news/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/garden_tags/photographie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apprendre à utiliser Ansel</title>
       <link>https://hgmarty.github.io/garden/003-ansel-livres/</link>
@@ -33,15 +24,6 @@
       
       <guid>https://hgmarty.github.io/garden/002-ansel/</guid>
       <description>Pourquoi le choisir ?</description>
-    </item>
-    
-    <item>
-      <title>Ouverture du site</title>
-      <link>https://hgmarty.github.io/garden/000-ouverture/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hgmarty.github.io/garden/000-ouverture/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hgmarty.github.io/garden_tags/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hgmarty.github.io/</loc>
-    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/garden_tags/news/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/garden/007-news/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/garden_tags/ansel/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/garden/003-ansel-livres/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/garden_tags/photographie/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hgmarty.github.io/library_tags/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
@@ -14,22 +32,10 @@
     <loc>https://hgmarty.github.io/library_tags/photo/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hgmarty.github.io/garden_tags/ansel/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hgmarty.github.io/garden/002-ansel/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hgmarty.github.io/garden_tags/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hgmarty.github.io/garden_tags/photo/</loc>
-    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hgmarty.github.io/about/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hgmarty.github.io/garden_tags/news/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hgmarty.github.io/garden/000-ouverture/</loc>
@@ -41,13 +47,10 @@
     <loc>https://hgmarty.github.io/garden/001-photorec/</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hgmarty.github.io/projects/project1/</loc>
+    <loc>https://hgmarty.github.io/garden/004-instagram/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hgmarty.github.io/project_tags/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hgmarty.github.io/project_tags/social/</loc>
+    <loc>https://hgmarty.github.io/garden_tags/social/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hgmarty.github.io/garden/</loc>
@@ -67,5 +70,11 @@
   </url><url>
     <loc>https://hgmarty.github.io/projects/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hgmarty.github.io/pages/contents/</loc>
+  </url><url>
+    <loc>https://hgmarty.github.io/pages/</loc>
+  </url><url>
+    <loc>https://hgmarty.github.io/project_tags/</loc>
   </url>
 </urlset>

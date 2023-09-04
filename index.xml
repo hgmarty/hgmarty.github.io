@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Guillaume Marty ©</copyright>
-    <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News de rentrée</title>
+      <link>https://hgmarty.github.io/garden/007-news/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/garden/007-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apprendre à utiliser Ansel</title>
+      <link>https://hgmarty.github.io/garden/003-ansel-livres/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/garden/003-ansel-livres/</guid>
+      <description>Comment ?</description>
+    </item>
+    
     <item>
       <title>NoFilter</title>
       <link>https://hgmarty.github.io/library/book3-nofilter/</link>
@@ -55,10 +73,10 @@
     
     <item>
       <title>Instagram</title>
-      <link>https://hgmarty.github.io/projects/project1/</link>
+      <link>https://hgmarty.github.io/garden/004-instagram/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgmarty.github.io/projects/project1/</guid>
+      <guid>https://hgmarty.github.io/garden/004-instagram/</guid>
       <description>&lt;p&gt;Instagram est très simple de prime abord, mais peut vite devenir compliqué : chronophage entre autre.&lt;/p&gt;</description>
     </item>
     
@@ -68,7 +86,7 @@
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hgmarty.github.io/library/book2-lescielscouvertssontlesamisdesphotographes/</guid>
-      <description>page 64</description>
+      <description>Et 61 autres pistes de photographies créatives</description>
     </item>
     
     <item>
@@ -77,7 +95,16 @@
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hgmarty.github.io/library/book1-lessecretsdelaphotolifestyle/</guid>
-      <description>Entre reportage et studio</description>
+      <description>Portraits spontanés - Lumière - Composition</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hgmarty.github.io/pages/contents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/pages/contents/</guid>
+      <description></description>
     </item>
     
   </channel>

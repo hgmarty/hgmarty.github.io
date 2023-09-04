@@ -7,31 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Guillaume Marty ©</copyright>
-    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/garden_tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.github.io/garden_tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>news</title>
+      <link>https://hgmarty.github.io/garden_tags/news/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/garden_tags/news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Ansel</title>
       <link>https://hgmarty.github.io/garden_tags/ansel/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hgmarty.github.io/garden_tags/ansel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photo</title>
-      <link>https://hgmarty.github.io/garden_tags/photo/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Photographie</title>
+      <link>https://hgmarty.github.io/garden_tags/photographie/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgmarty.github.io/garden_tags/photo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://hgmarty.github.io/garden_tags/news/</link>
-      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hgmarty.github.io/garden_tags/news/</guid>
+      <guid>https://hgmarty.github.io/garden_tags/photographie/</guid>
       <description></description>
     </item>
     
@@ -41,6 +41,15 @@
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hgmarty.github.io/garden_tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>https://hgmarty.github.io/garden_tags/social/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hgmarty.github.io/garden_tags/social/</guid>
       <description></description>
     </item>
     
