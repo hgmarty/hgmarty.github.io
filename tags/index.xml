@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on GM Photographie</title>
+        <link>https://hgmarty.gitub.io/tags/</link>
+        <description>Recent content in Tags on GM Photographie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language>
+        <copyright>Guillaume Marty</copyright>
+        <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.gitub.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Note A</title>
+        <link>https://hgmarty.gitub.io/tags/note-a/</link>
+        <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/tags/note-a/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Note D</title>
+        <link>https://hgmarty.gitub.io/tags/note-d/</link>
+        <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/tags/note-d/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ansel</title>
+        <link>https://hgmarty.gitub.io/tags/ansel/</link>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/tags/ansel/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Note B</title>
+        <link>https://hgmarty.gitub.io/tags/note-b/</link>
+        <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/tags/note-b/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

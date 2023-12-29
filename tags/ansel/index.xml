@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ansel on GM Photographie</title>
+        <link>https://hgmarty.gitub.io/tags/ansel/</link>
+        <description>Recent content in Ansel on GM Photographie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language>
+        <copyright>Guillaume Marty</copyright>
+        <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.gitub.io/tags/ansel/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pourquoi choisir Ansel Photos</title>
+        <link>https://hgmarty.gitub.io/p/pourquoi-choisir-ansel-photos/</link>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/p/pourquoi-choisir-ansel-photos/</guid>
+        <description>&lt;img src="https://hgmarty.gitub.io/p/pourquoi-choisir-ansel-photos/bandeau-logiciels.png" alt="Featured image of post Pourquoi choisir Ansel Photos" /&gt;&lt;h1 id=&#34;choix-initial&#34;&gt;Choix initial&lt;/h1&gt;
+&lt;p&gt;Choisir un logiciel de photographie (classement et développement) n&amp;rsquo;est pas du tout aisé. En tout cas, le choisir parmi un large choix est difficile.&lt;/p&gt;
+&lt;p&gt;En ce qui me concerne, cela doit se faire avec des critères afin que le processus soit plus facile. Et le premier d&amp;rsquo;entre eux est que je suis sous GNU/Linux. Cela élimine de facto tous les logiciels propriétaires qui n&amp;rsquo;existent pas sous cette plateforme. La liste qui en ressort ne comporte plus que quelques candidats : on peut citer darktable, digikam, rawtherapee. A l&amp;rsquo;époque, le choix s&amp;rsquo;est fixé sur 2 logiciels que sont darktable et rawtherapee étant donné un des critères fixés de dérawtiseur. Après essai, darktable a été mon choix. Il combinait le classement et le développement et rawtherapee ne comporte pas cette première option. Ce choix a été choisi, même si celui-ci au départ a été fait par défaut.&lt;/p&gt;
+&lt;h1 id=&#34;historique&#34;&gt;Historique&lt;/h1&gt;
+&lt;p&gt;J&amp;rsquo;ai commencé à utiliser darktable avec la version 2 toutefois de façon assez disparate et peut-être même avant cette version. Cette période commence vraiment à dater. J&amp;rsquo;ai été plus assidu avec l’avènement du module filmique marquant un tournant vers le flux de travail relatif à la scène. J&amp;rsquo;ai participé à la vie du site français en produisant des documents à destination des débutants. L&amp;rsquo;écriture de ces documents a été fait avec plus ou moins de réussite. Ils n&amp;rsquo;ont malheureusement eu aucune visibilité sur les sites officiels même si des liens ont été faits sur le forum mais non sur le site.&lt;/p&gt;
+&lt;p&gt;Avec le confinement en 2020, darktable a accéléré son développement pour passer d&amp;rsquo;une version par an à deux versions annuellement. Cette nouvelle formule a été pour ma part un déclencheur négatif. Plusieurs raisons m&amp;rsquo;ont poussé à abandonner le développement pendant un moment, j&amp;rsquo;y reviendrais plus tard dans les détails.&lt;/p&gt;
+&lt;p&gt;Aucune solution ne m&amp;rsquo;a paru abouti comme pouvait l&amp;rsquo;être darktable mais sans ses défauts qui, malheureusement, prédominaient sur le résultat que l&amp;rsquo;on avait. J&amp;rsquo;ai pensé vraiment à arrêter cette partie-là de la photo. Repartir sous Windows n&amp;rsquo;était pas à l&amp;rsquo;ordre du jour et ne l&amp;rsquo;est toujours pas.&lt;/p&gt;
+&lt;p&gt;Tout en regardant ailleurs, j&amp;rsquo;ai repris darktable 2 versions en aval de mon abandon (je n&amp;rsquo;ai plus du tout le compte des numéros de versions). J&amp;rsquo;ai souhaité aussi participer à un nouvel élan pour la communauté française. Malgré un bon départ, cela a été un fiasco total avec une volonté d&amp;rsquo;absence de remise en question de certaines personnes et un refus de faire une documentation dans l&amp;rsquo;air du temps avec les outils qui sont les références du moment. Et oui car avant on faisait mieux&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Et puis Ansel est né, d&amp;rsquo;abord sous le nom de r-darktable puis ce nom plus hype, dirons-nous.&lt;/p&gt;
+&lt;h1 id=&#34;ansel-&#34;&gt;Ansel ?&lt;/h1&gt;
+&lt;p&gt;Ansel est  un fork de  darktable. Dans le  libre, quand il  existe des divergences,  un  fork  se  crée.   C&amp;rsquo;est  ce  qui  s&amp;rsquo;est  passé  avec darktable.&lt;/p&gt;
+&lt;h1 id=&#34;pourquoi-choisir-ansel-&#34;&gt;Pourquoi choisir Ansel ?&lt;/h1&gt;
+&lt;p&gt;J&amp;rsquo;ai  choisi de  continuer  et même de reprendre le  développement sous  Ansel  et ce  pour plusieurs raisons mais interconnectées.&lt;/p&gt;
+&lt;p&gt;darktable évolue trop vite avec une version tous les 6 mois. Je n&amp;rsquo;ai plus  le  temps  de  suivre  et  de  reconfigurer  les  choses  trop rapidement. Aussitôt que  je commence un nouveau workflow  et que je m&amp;rsquo;habitue avec,  je dois  refaire le même  travail. Autant  dire que cela est compliqué, le temps est de plus une donnée précieuse.&lt;/p&gt;
+&lt;p&gt;darktable  a  trop   d&amp;rsquo;options.  En  effet, trop de  choses sont gardées. Alors oui, je connais mais cela fait trop de choses à faire ou à configurer. Et le temps est assez précieux, tout comme le point précédent. Si je le passe à configurer plus qu&amp;rsquo;à jouer avec le développement des photos, autant arrêter de suite l&amp;rsquo;affaire.&lt;/p&gt;
+&lt;p&gt;Ansel se focalise sur le développement rvb ce que j&amp;rsquo;utilise. Je n&amp;rsquo;aurais pas plus de choses à faire avant de développer, c&amp;rsquo;est-à-dire configurer avant de pouvoir commencer à faire ce pourquoi le logiciel a été créé.&lt;br&gt;
+Ansel ne fera de maj trop grosses, ce qui m&amp;rsquo;arrange. C&amp;rsquo;est aussi le point qui fait que je reste sous Debian stable. Rien à faire pendant un grand moment.&lt;/p&gt;
+&lt;p&gt;Les différentes versions sorties depuis la  version 4 ne changent pas trop mon avis. Les ajouts ne sont pas pour pertinents pour moi. Si on prend  un exemple, je ne vois pas l&amp;rsquo;intérêt de proposer encore un nouveau module nommé sigmoid. En effet, cela va faire une  troisième option,  soit un choix entre filmique ou courbe de base ou sigmoid (je parle de darktable). J&amp;rsquo;avoue que je ne comprends pas car ajouter encore  quelque chose va  compliquer la compréhension  de ceux qui commencent darktable. Il ne faut pas non plus se leurrer, sigmoïd est une version allégée de filmique ; pourquoi en créer un nouveau module ? Si ce n&amp;rsquo;est pour complexifier le logiciel et/ou satisfaire un ego&amp;hellip; Je vous laisse choisir la bonne réponse.&lt;/p&gt;
+&lt;p&gt;Pour toutes ces raisons, je continue le développement de mes photos sous Ansel.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

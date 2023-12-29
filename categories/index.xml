@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on GM Photographie</title>
+        <link>https://hgmarty.gitub.io/categories/</link>
+        <description>Recent content in Categories on GM Photographie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language>
+        <copyright>Guillaume Marty</copyright>
+        <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgmarty.gitub.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>News</title>
+        <link>https://hgmarty.gitub.io/categories/news/</link>
+        <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/categories/news/</guid>
+        <description>&lt;img src="https://hgmarty.gitub.io/categories/news/news.jpg" alt="Featured image of post News" /&gt;</description>
+        </item>
+        <item>
+        <title>Livres</title>
+        <link>https://hgmarty.gitub.io/categories/livres/</link>
+        <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/categories/livres/</guid>
+        <description>&lt;img src="https://hgmarty.gitub.io/categories/livres/biblio.jpg" alt="Featured image of post Livres" /&gt;</description>
+        </item>
+        <item>
+        <title>Workflow</title>
+        <link>https://hgmarty.gitub.io/categories/workflow/</link>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://hgmarty.gitub.io/categories/workflow/</guid>
+        <description>&lt;img src="https://hgmarty.gitub.io/categories/workflow/todo.jpg" alt="Featured image of post Workflow" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
